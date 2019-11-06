@@ -13,10 +13,8 @@ When we take group photos, we often see someone who blinked his/her eyes, someon
 
 ## 3. Steps for our project
 
-### 3.1 Detecting Stationary Photos
-
-### 3.2 Eye Blink Detection
-
-### 3.3. Hand Pose Detection
+- 3.1 Detecting Stationary Photos
+- 3.2 Eye Blink Detection
+- 3.3. Hand Pose Detection
 
 [Click for Details](https://github.com/blackco66/2019CV-FinalProject/blob/master/Final_How%20to%20Get%20the%20Best%20Group%20Photo.pdf)
